@@ -1,0 +1,10 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.kalinin_slava.twa",
+        "sha256_cert_fingerprints": [
+            "8D:3A:F8:DD:90:0C:E5:64:A2:0B:52:44:D3:D1:9E:F1:8F:99:7C:41:76:DC:17:22:72:4F:13:90:E6:4C:BD:F1"
+        ]
+    }
+}]
